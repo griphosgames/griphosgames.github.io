@@ -1,3 +1,1 @@
-# Placeholder until the AdMob account exists. AdMob gives one line to put
-# here, of the form:
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-1435352103578788, DIRECT, f08c47fec0942fa0
